@@ -26,10 +26,19 @@ section {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+u {
+    list-style-type: disc;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+}
 
 ul {
     list-style-type: disc;
     padding-left: 2rem;
+}
+h2 {
+    margin-bottom: 1rem;
+    color: #e43b3b;
 }
 
 #tool {
